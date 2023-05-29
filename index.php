@@ -9,7 +9,6 @@ echo('<br>');
 print(shell_exec(
     'ls'
 ));
-print
 
 // Display the list of all file
 // and directory
